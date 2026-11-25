@@ -1,0 +1,29 @@
+{
+  "common": {
+    "welcome": "Welcome to CloudCart",
+    "search": "Search products, brands, acoustics...",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "cart": "Cart",
+    "wishlist": "Wishlist",
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "status": "Status",
+    "actions": "Actions"
+  },
+  "nav": {
+    "home": "Home",
+    "shop": "Shop Catalog",
+    "categories": "Categories",
+    "orders": "My Orders",
+    "profile": "Profile Settings"
+  },
+  "roles": {
+    "admin": "Super Admin",
+    "merchant": "Merchant Seller",
+    "customer": "Customer"
+  }
+}
